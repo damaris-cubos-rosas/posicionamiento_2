@@ -1,6 +1,6 @@
 body {
     height: 300vh;
-    background: linear-gradient(#e66465, #9198e5);
+    background: linear-gradient(#e66465, #f0ee64, #4452e6);
 }
 
 ul {
@@ -23,4 +23,9 @@ a {
     font-weight: 700;
     padding: 20px;
     color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: magenta;
 }
